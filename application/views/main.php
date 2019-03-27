@@ -103,18 +103,18 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h3 class="w3-padding-16">Mein Werdegang</h3>
     <p>
       Servicetechniker Fieldservice</br>
-      9/2007 - Bis heute - 11 Jahre 6 Monate</br>
+      9/2007 - Bis heute</br>
       M-net Telekommunikations GmbH</br>
       Telekommunikation</br>
       Wartung und Instandhaltung, so wie Entstörung von Systemtechnik und Kundenanschlüsse.</br>
       <hr class="w3-opacity">
       Energieelektroniker</br>
-      5/2007 - 8/2007 - 3 Monate</br>
+      5/2007 - 8/2007</br>
       Freier Elektrotechnik</br>
       Elektrotechnik, Feinmechanik & Optik</br>
       <hr class="w3-opacity">
       Servicetechniker Fieldservice</br>
-      3/2001 - 4/2007 - 6 Jahre 1 Monate</br>
+      3/2001 - 4/2007</br>
       Arcor Mannesmann / übernahme durch die DB Telematik GmbH</br>
       Telekommunikation</br>
     </p>
