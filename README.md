@@ -1,7 +1,8 @@
 # jensweisskopf.de
 
-This is the source code for my webside jensweisskopf.de.  
+This is the source code for my webside   jensweisskopf.de.  
 It's based on codeigniter.  
 I used w3css, jQuery,...  
 
-Feel free to fork  
+It's based on codeigniter.  
+I used w3css, jQuery  
